@@ -1,5 +1,5 @@
 # spinners
-SPINNERS FOR SKIN OPENPLUSHD
+SPINNERS FOR OPENPLUSHD
 ----------------------------
 Colocar preview formato PNG
 Fondo transparente
